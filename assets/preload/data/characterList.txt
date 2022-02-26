@@ -21,3 +21,4 @@ bf-pixel-opponent
 pico-player
 Hbf
 Hgf
+bfDead
