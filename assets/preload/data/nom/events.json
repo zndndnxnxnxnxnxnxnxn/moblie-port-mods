@@ -1,0 +1,409 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "halloween",
+		"player1": "roombf",
+		"player2": "vampgf",
+		"player3": "invisible",
+		"events": [
+			[
+				61894.7368421052,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				67578.947368421,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				70736.8421052631,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				73263.1578947368,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				85894.7368421052,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				87157.894736842,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				87631.5789473683,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				88105.2631578946,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				88263.1578947368,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				99157.894736842,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				99473.6842105262,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				99631.5789473683,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				103578.947368421,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				103894.736842105,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				104052.631578947,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				104210.526315789,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				104842.105263158,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				105315.789473684,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				105789.47368421,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				105947.368421053,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				123789.47368421,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				124263.157894737,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				125052.631578947,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				125526.315789474,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				136421.052631579,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				137210.526315789,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				137368.421052631,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				138631.578947368,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				138947.368421053,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				147789.473684211,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				150315.789473684,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				150789.473684211,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				151263.157894737,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				154105.263157895,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				154578.947368421,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				155052.631578947,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			],
+			[
+				186868.421052632,
+				[
+					[
+						"Play Animation",
+						"Bite",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "invisible",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Nom"
+	}
+}
