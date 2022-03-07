@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				-4
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "G Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				-28
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "G Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "G Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-33,
+				-4
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "G Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "G Idle Dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B3_GF_Phase_2_Assets",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "susgf",
+	"flip_x": false,
+	"healthbar_colors": [
+		218,
+		20,
+		197
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
