@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PIRACYSONICIDLE"
+		},
+		{
+			"offsets": [
+				-26,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PIRACYSONICUP"
+		},
+		{
+			"offsets": [
+				-13,
+				33
+			],
+			"loop": true,
+			"fps": 23,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PIRACYSONICRIGHT"
+		},
+		{
+			"offsets": [
+				-33,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PIRACYSONICLEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PIRACYSONICDOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				-94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "IMOUTTAHERE",
+			"indices": [],
+			"name": "IMOUTTAHERE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				56
+			],
+			"anim": "THUMBUP",
+			"fps": 12,
+			"name": "PIRACYTHUMBUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PIRACY_SONIC",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icons-piracy",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		65,
+		142
+	],
+	"camera_position": [
+		40,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
