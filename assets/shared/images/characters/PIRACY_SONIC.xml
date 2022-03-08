@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PIRACY_SONIC.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IMOUTTAHERE0000" x="0" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0001" x="0" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0002" x="0" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0003" x="0" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0004" x="631" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0005" x="631" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0006" x="1262" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0007" x="1893" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0008" x="2524" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0009" x="1893" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0010" x="3155" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0011" x="3155" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0012" x="3786" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0013" x="3786" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0014" x="4417" y="0" width="631" height="748"/>
+	<SubTexture name="IMOUTTAHERE0015" x="5048" y="0" width="631" height="748"/>
+	<SubTexture name="PIRACYSONICDOWN0000" x="5679" y="0" width="710" height="866" frameX="0" frameY="0" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0001" x="5679" y="0" width="710" height="866" frameX="0" frameY="0" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0002" x="6389" y="0" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0003" x="7099" y="0" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0004" x="0" y="866" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0005" x="7099" y="0" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0006" x="7099" y="0" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0007" x="7099" y="0" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0008" x="7099" y="0" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0009" x="7099" y="0" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0010" x="7099" y="0" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0011" x="7099" y="0" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICDOWN0012" x="7099" y="0" width="710" height="855" frameX="-5" frameY="-11" frameWidth="715" frameHeight="866"/>
+	<SubTexture name="PIRACYSONICIDLE0000" x="2871" y="1739" width="619" height="911" frameX="-17" frameY="0" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0001" x="2871" y="1739" width="619" height="911" frameX="-17" frameY="0" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0002" x="3490" y="1739" width="624" height="904" frameX="-16" frameY="-7" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0003" x="3490" y="1739" width="624" height="904" frameX="-16" frameY="-7" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0004" x="4114" y="1739" width="631" height="901" frameX="-15" frameY="-10" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0005" x="4114" y="1739" width="631" height="901" frameX="-15" frameY="-10" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0006" x="4745" y="1739" width="642" height="897" frameX="-7" frameY="-14" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0007" x="4745" y="1739" width="642" height="897" frameX="-7" frameY="-14" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0008" x="5387" y="1739" width="650" height="895" frameX="0" frameY="-16" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0009" x="5387" y="1739" width="650" height="895" frameX="0" frameY="-16" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0010" x="5387" y="1739" width="650" height="895" frameX="0" frameY="-16" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0011" x="5387" y="1739" width="650" height="895" frameX="0" frameY="-16" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICIDLE0012" x="5387" y="1739" width="650" height="895" frameX="0" frameY="-16" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACYSONICLEFT0000" x="710" y="866" width="698" height="764" frameX="-6" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0001" x="1408" y="866" width="698" height="764" frameX="-6" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0002" x="2106" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0003" x="2806" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0004" x="3506" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0005" x="4206" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0006" x="4206" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0007" x="4206" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0008" x="4206" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0009" x="4206" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0010" x="4206" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0011" x="4206" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICLEFT0012" x="4206" y="866" width="700" height="764" frameX="0" frameY="0" frameWidth="704" frameHeight="764"/>
+	<SubTexture name="PIRACYSONICRIGHT0000" x="4906" y="866" width="632" height="873" frameX="-7" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0001" x="4906" y="866" width="632" height="873" frameX="-7" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0002" x="5538" y="866" width="631" height="873" frameX="0" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0003" x="6169" y="866" width="631" height="873" frameX="0" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0004" x="6800" y="866" width="633" height="873" frameX="-6" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0005" x="7433" y="866" width="633" height="873" frameX="-6" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0006" x="6800" y="866" width="633" height="873" frameX="-6" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0007" x="6800" y="866" width="633" height="873" frameX="-6" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0008" x="6800" y="866" width="633" height="873" frameX="-6" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0009" x="6800" y="866" width="633" height="873" frameX="-6" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0010" x="6800" y="866" width="633" height="873" frameX="-6" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0011" x="6800" y="866" width="633" height="873" frameX="-6" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICRIGHT0012" x="6800" y="866" width="633" height="873" frameX="-6" frameY="0" frameWidth="639" frameHeight="873"/>
+	<SubTexture name="PIRACYSONICUP0000" x="0" y="1739" width="504" height="793" frameX="0" frameY="0" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0001" x="0" y="1739" width="504" height="793" frameX="0" frameY="0" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0002" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0003" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0004" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0005" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0006" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0007" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0008" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0009" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0010" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0011" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYSONICUP0012" x="504" y="1739" width="512" height="788" frameX="0" frameY="-6" frameWidth="512" frameHeight="794"/>
+	<SubTexture name="PIRACYTHUMBUP0000" x="1016" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACYTHUMBUP0001" x="1633" y="1739" width="621" height="896"/>
+	<SubTexture name="PIRACYTHUMBUP0002" x="1633" y="1739" width="621" height="896"/>
+	<SubTexture name="PIRACYTHUMBUP0003" x="2254" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACYTHUMBUP0004" x="2254" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACYTHUMBUP0005" x="2254" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACYTHUMBUP0006" x="2254" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACYTHUMBUP0007" x="2254" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACYTHUMBUP0008" x="2254" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACYTHUMBUP0009" x="2254" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACYTHUMBUP0010" x="2254" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACYTHUMBUP0011" x="2254" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACYTHUMBUP0012" x="2254" y="1739" width="617" height="892" frameX="0" frameY="-4" frameWidth="621" frameHeight="896"/>
+	<SubTexture name="PIRACY_MENU0000" x="2871" y="1739" width="619" height="911" frameX="-17" frameY="0" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0001" x="2871" y="1739" width="619" height="911" frameX="-17" frameY="0" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0002" x="3490" y="1739" width="624" height="904" frameX="-16" frameY="-7" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0003" x="3490" y="1739" width="624" height="904" frameX="-16" frameY="-7" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0004" x="4114" y="1739" width="631" height="901" frameX="-15" frameY="-10" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0005" x="4114" y="1739" width="631" height="901" frameX="-15" frameY="-10" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0006" x="4745" y="1739" width="642" height="897" frameX="-7" frameY="-14" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0007" x="4745" y="1739" width="642" height="897" frameX="-7" frameY="-14" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0008" x="5387" y="1739" width="650" height="895" frameX="0" frameY="-16" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0009" x="5387" y="1739" width="650" height="895" frameX="0" frameY="-16" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0010" x="5387" y="1739" width="650" height="895" frameX="0" frameY="-16" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0011" x="5387" y="1739" width="650" height="895" frameX="0" frameY="-16" frameWidth="650" frameHeight="911"/>
+	<SubTexture name="PIRACY_MENU0012" x="5387" y="1739" width="650" height="895" frameX="0" frameY="-16" frameWidth="650" frameHeight="911"/>
+</TextureAtlas>
