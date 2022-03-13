@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "You know what?"
+		},
+		{
+			"speed": 0.12,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "???"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "I have put you in a game, in intense danger, and even more, but yet you NEVER DIE!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Cool, I don't care."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "I will get it done myself."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Get what done?"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Your time with my daughter."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Why are you doing this, Dad?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Stay out of this, daughter."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "Wait.....     You are gonna try to\\nSHOOT ME?"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Nice try. I have been dodging bullets since before I could speak."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Have you dodged ' demons bullets ' ?\\nYou won't last a minute."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "( oh no... )"
+		}
+	]
+}
