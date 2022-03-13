@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		110,
+		-10
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"loop_name": "Dad Gun HoldEnd",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dad Gun HoldEnd",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Dad Hit",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dad Hit",
+			"anim": "hit",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Dad Gun Shoot",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dad Gun HoldEnd",
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Dad idle dance",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dad idle dance",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "DADDY_DEAREST"
+}
