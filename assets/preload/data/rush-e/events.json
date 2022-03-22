@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "pico",
+		"player3": null,
+		"events": [
+			[
+				110250,
+				[
+					[
+						"Screen Shake",
+						"0.50, 0.125",
+						""
+					]
+				]
+			],
+			[
+				117000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				123000,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				129000,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				134250,
+				[
+					[
+						"Screen Shake",
+						"0.05, 0.125",
+						""
+					]
+				]
+			],
+			[
+				134253.90625,
+				[
+					[
+						"Blammed Lights",
+						"",
+						"4"
+					]
+				]
+			],
+			[
+				134437.5,
+				[
+					[
+						"Screen Shake",
+						"0.05, 0.125",
+						""
+					]
+				]
+			],
+			[
+				134625,
+				[
+					[
+						"Screen Shake",
+						"0.05, 0.125",
+						""
+					]
+				]
+			],
+			[
+				134812.5,
+				[
+					[
+						"Screen Shake",
+						"0.05, 0.125",
+						""
+					]
+				]
+			],
+			[
+				140250,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				147000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				153000,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				165000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "rush-e"
+	}
+}
